@@ -12,7 +12,7 @@ definePageMeta({
     layout:'products'
 })
 
-const { data:Product } = await useFetch(url)
+const { data:product } = await useFetch(url)
  
 
 </script>
